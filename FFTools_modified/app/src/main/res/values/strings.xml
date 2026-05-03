@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FF Tools</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about">Tentang</string>
+    <string name="privilege_checking">Mengecek privilege…</string>
+    <string name="service_inactive">Service: Nonaktif</string>
+    <string name="service_active">Service: Aktif ✓</string>
+    <string name="btn_start_service">Mulai Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="shizuku_disconnected">Shizuku terputus</string>
+    <string name="shizuku_connected">Shizuku terhubung ✓</string>
+    <string name="shizuku_denied">Izin Shizuku ditolak — beberapa fitur tidak tersedia</string>
+</resources>
